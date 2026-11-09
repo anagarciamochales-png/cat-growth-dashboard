@@ -78,9 +78,9 @@ The project automatically creates PNG charts showing:
 - Current status
 
 
-![Misty Growth Chart](misty_growth.png)
+![Misty Growth Chart](charts/misty_growth.png)
 
-![Ash Growth Chart](ash_growth.png)
+![Ash Growth Chart](charts/ash_growth.png)
 
 
 ## Project Structure
